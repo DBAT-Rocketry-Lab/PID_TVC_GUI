@@ -1,6 +1,6 @@
-# TVC - PID Simulator Module
+# TVC - PID Simulator GUI
 
-This repository is the GUI of the PID simulation for thrust-vector-control... an extension of our model rocketry project.
+This repository is the GUI of the PID simulator for thrust-vector-control... an extension of our model rocketry project.
 The main goal here is to effectively develop a platform to control and visualize how the rocket behaves aerodynamically when in motion.
 
 ### Concept Design
