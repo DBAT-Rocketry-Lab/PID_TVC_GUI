@@ -4,12 +4,6 @@ This repository is the GUI of the PID simulator for thrust-vector-control... an 
 The main goal here is to effectively develop a platform to control and visualize how the rocket behaves aerodynamically when in motion.
 
 ### Concept Design
-#### Stand with Rocket
-<img width="629" height="889" alt="image" src="https://github.com/user-attachments/assets/37f5ac30-b8f0-49b8-a3a7-0b104a48c38b" />
+<img width="1124" height="637" alt="image" src="https://github.com/user-attachments/assets/207eeeed-e92c-4863-980b-7134825e0381" />
 
-#### Active Roll Control Block
-<img width="1257" height="889" alt="image" src="https://github.com/user-attachments/assets/de1b4cdc-bb99-485e-805f-2f3e27035e92" />
-
-#### Thrust Vector Control Block
-<img width="1257" height="889" alt="image" src="https://github.com/user-attachments/assets/5487abd8-dc37-49fc-b89f-7cacb5ac49be" />
 
